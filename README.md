@@ -130,14 +130,7 @@ Results are saved in `tasks/reactions/` as JSON files:
 - Experimentation with large language models in structured debate scenarios
 - Analysis of how AI systems model complex geopolitical positions
 
-## Contributing
-
-This is an experimental project shared publicly for research, education, and collaborative development. Contributions are welcome!
-
-## License
-
-[To be determined]
-
+ 
 ## Disclaimer
 
 This is a simulation for research and educational purposes. The AI agents' positions do not represent actual government policies or diplomatic stances. The simulation is designed to model how countries might approach issues based on their historical positions, but should not be considered authoritative or predictive.

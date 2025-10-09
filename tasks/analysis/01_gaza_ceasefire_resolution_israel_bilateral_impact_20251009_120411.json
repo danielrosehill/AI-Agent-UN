@@ -1,0 +1,67 @@
+{
+  "motion_id": "01_gaza_ceasefire_resolution",
+  "timestamp": "2025-10-09T12:04:11.355670Z",
+  "model": "claude-3-5-haiku-20241022",
+  "total_analyzed": 3,
+  "impact_summary": {
+    "strengthened_significantly": 0,
+    "strengthened_moderately": 0,
+    "strengthened_slightly": 0,
+    "neutral": 3,
+    "strained_slightly": 0,
+    "strained_moderately": 0,
+    "strained_significantly": 0
+  },
+  "analyses": [
+    {
+      "country": "Afghanistan",
+      "vote": "yes",
+      "statement": "As a Muslim nation that has experienced decades of conflict, Afghanistan strongly supports efforts to protect civilian lives and ensure humanitarian access in Gaza. We particularly welcome the resolution's emphasis on unhindered humanitarian access and reconstruction efforts, as these align with Afghanistan's own experiences regarding the critical importance of international aid during times of crisis. Our support is also rooted in Afghanistan's longstanding position backing Palestinian rights and the two-state solution, consistent with the positions of the Organization of Islamic Cooperation, of which we are a member.",
+      "impact_analysis": {
+        "impact_category": "neutral",
+        "reasoning": "[Error: Unable to parse response]",
+        "confidence": "low",
+        "key_factors": [
+          "analysis_error"
+        ],
+        "error": "Extra data: line 13 column 1 (char 748)"
+      }
+    },
+    {
+      "country": "Albania",
+      "vote": "yes",
+      "statement": "As a NATO member and EU candidate country, Albania aligns with the Euro-Atlantic position supporting a peaceful resolution to the Gaza conflict while upholding international humanitarian law. Albania's own experience with regional conflicts and successful transition to democracy reinforces our conviction that dialogue and peaceful negotiations are essential for lasting stability. We particularly support the resolution's emphasis on humanitarian access and accountability mechanisms, drawing from our own region's experience with post-conflict reconstruction and reconciliation processes.",
+      "impact_analysis": {
+        "impact_category": "neutral",
+        "reasoning": "[Error: Unable to parse response]",
+        "confidence": "low",
+        "key_factors": [
+          "analysis_error"
+        ],
+        "error": "Extra data: line 13 column 1 (char 732)"
+      }
+    },
+    {
+      "country": "Algeria",
+      "vote": "yes",
+      "statement": "As a steadfast supporter of Palestinian rights and self-determination, Algeria welcomes this resolution while emphasizing that any lasting peace must address the fundamental rights of the Palestinian people. Algeria particularly supports the provisions calling for unrestricted humanitarian access and the complete lifting of restrictions on Gaza, as these align with our longstanding position against the blockade. As a key North African state with deep historical ties to the Palestinian cause and a member of the Arab League, we view this resolution as an important step, though we stress that accountability for violations of international law and the establishment of a fully sovereign Palestinian state based on 1967 borders with East Jerusalem as its capital remain non-negotiable principles.",
+      "impact_analysis": {
+        "impact_category": "neutral",
+        "reasoning": "[Error: Unable to parse response]",
+        "confidence": "low",
+        "key_factors": [
+          "analysis_error"
+        ],
+        "error": "Extra data: line 13 column 1 (char 657)"
+      }
+    }
+  ],
+  "metadata": {
+    "voting_summary": {
+      "yes": 190,
+      "no": 3,
+      "abstain": 2
+    },
+    "original_votes": 195
+  }
+}
