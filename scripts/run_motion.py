@@ -58,33 +58,47 @@ class MotionRunner:
         load_dotenv()
 
         if self.provider == "cloud":
-            self.api_key = os.getenv("OPENAI_API_KEY") or os.getenv("ANTHROPIC_API_KEY")
+            self.anthropic_api_key = os.getenv("ANTHROPIC_API_KEY")
+            self.openai_api_key = os.getenv("OPENAI_API_KEY")
             self.api_base = os.getenv("API_BASE_URL")
             if not self.model:
                 self.model = os.getenv("MODEL_NAME", "gpt-4")
+
+            # Determine which API to use based on model name
+            self.use_anthropic = self.model.startswith("claude")
         else:
             # Local model configuration
             self.local_model_path = os.getenv("LOCAL_MODEL_PATH")
             if not self.model:
                 self.model = os.getenv("LOCAL_MODEL_NAME", "llama3")
+            self.use_anthropic = False
 
     def _init_ai_client(self):
         """Initialize the appropriate AI client"""
         if self.provider == "cloud":
-            try:
-                # Try OpenAI-compatible API
-                import openai
-                if self.api_base:
-                    self.client = openai.OpenAI(
-                        api_key=self.api_key,
-                        base_url=self.api_base
-                    )
-                else:
-                    self.client = openai.OpenAI(api_key=self.api_key)
-                print(f"✓ Initialized cloud API client (model: {self.model})")
-            except ImportError:
-                print("Error: openai package not installed. Run: pip install openai")
-                sys.exit(1)
+            if self.use_anthropic:
+                try:
+                    import anthropic
+                    self.client = anthropic.Anthropic(api_key=self.anthropic_api_key)
+                    print(f"✓ Initialized Anthropic API client (model: {self.model})")
+                except ImportError:
+                    print("Error: anthropic package not installed. Run: pip install anthropic")
+                    sys.exit(1)
+            else:
+                try:
+                    # OpenAI or OpenRouter
+                    import openai
+                    if self.api_base:
+                        self.client = openai.OpenAI(
+                            api_key=self.openai_api_key,
+                            base_url=self.api_base
+                        )
+                    else:
+                        self.client = openai.OpenAI(api_key=self.openai_api_key)
+                    print(f"✓ Initialized OpenAI API client (model: {self.model})")
+                except ImportError:
+                    print("Error: openai package not installed. Run: pip install openai")
+                    sys.exit(1)
         else:
             try:
                 # Use Ollama for local models
@@ -147,26 +161,46 @@ You must respond with a JSON object containing:
 1. "vote": Your vote - must be exactly one of: "yes", "no", or "abstain"
 2. "statement": A brief statement (2-4 sentences) explaining your country's position
 
+IMPORTANT: Your statement must articulate {country['name']}'s UNIQUE perspective, national interests, and specific reasons for this vote. Reference your country's:
+- Historical positions on this issue
+- Regional concerns and alliances
+- Domestic political considerations
+- Specific clauses in the resolution that align with or contradict your interests
+
+Avoid generic diplomatic language. Be specific to {country['name']}'s situation and worldview.
+
 Your response must be valid JSON in this exact format:
 {{
   "vote": "yes",
   "statement": "Your explanation here."
-}}
-
-Remember to vote according to {country['name']}'s national interests and foreign policy positions."""
+}}"""
 
         try:
             if self.provider == "cloud":
-                response = self.client.chat.completions.create(
-                    model=self.model,
-                    messages=[
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": user_prompt}
-                    ],
-                    temperature=0.7,
-                    max_tokens=500
-                )
-                content = response.choices[0].message.content
+                if self.use_anthropic:
+                    # Anthropic API
+                    response = self.client.messages.create(
+                        model=self.model,
+                        max_tokens=800,
+                        system=system_prompt,
+                        messages=[
+                            {"role": "user", "content": user_prompt}
+                        ],
+                        temperature=0.7
+                    )
+                    content = response.content[0].text
+                else:
+                    # OpenAI API
+                    response = self.client.chat.completions.create(
+                        model=self.model,
+                        messages=[
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": user_prompt}
+                        ],
+                        temperature=0.7,
+                        max_tokens=800
+                    )
+                    content = response.choices[0].message.content
             else:
                 response = self.client.chat(
                     model=self.model,
