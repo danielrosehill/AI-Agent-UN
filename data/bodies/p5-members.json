@@ -1,0 +1,27 @@
+{
+  "type": "permanent_security_council_members",
+  "description": "Permanent members of the UN Security Council (P5) with veto power",
+  "count": 5,
+  "members": [
+    {
+      "name": "China",
+      "code": "CHN"
+    },
+    {
+      "name": "France",
+      "code": "FRA"
+    },
+    {
+      "name": "Russia",
+      "code": "RUS"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GBR"
+    },
+    {
+      "name": "United States",
+      "code": "USA"
+    }
+  ]
+}

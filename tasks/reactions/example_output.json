@@ -1,0 +1,50 @@
+{
+  "motion_id": "01_gaza_ceasefire_resolution",
+  "motion_path": "tasks/motions/01_gaza_ceasefire_resolution.md",
+  "timestamp": "2025-10-09T14:30:22.123456Z",
+  "provider": "cloud",
+  "model": "gpt-4",
+  "total_votes": 5,
+  "vote_summary": {
+    "yes": 4,
+    "no": 0,
+    "abstain": 1
+  },
+  "votes": [
+    {
+      "country": "Afghanistan",
+      "country_slug": "afghanistan",
+      "vote": "yes",
+      "statement": "Afghanistan strongly supports this ceasefire resolution. As a nation that has endured decades of conflict, we understand the urgent need for peace and humanitarian access. We call on all parties to respect international humanitarian law and protect civilian lives.",
+      "error": null
+    },
+    {
+      "country": "Albania",
+      "country_slug": "albania",
+      "vote": "yes",
+      "statement": "Albania votes in favor of this resolution. We support immediate humanitarian relief and the protection of civilians. As a member of NATO and the EU accession process, we align with international efforts to promote peace and stability in the region.",
+      "error": null
+    },
+    {
+      "country": "Algeria",
+      "country_slug": "algeria",
+      "vote": "yes",
+      "statement": "Algeria welcomes this ceasefire agreement and calls for its strict implementation. As a leading voice in the Arab world and Africa, we emphasize the need for a just and lasting solution based on international law, including the two-state solution.",
+      "error": null
+    },
+    {
+      "country": "Andorra",
+      "country_slug": "andorra",
+      "vote": "yes",
+      "statement": "Andorra supports this humanitarian resolution. While we are a small nation, we believe in the principles of peace, human rights, and international cooperation. We call for immediate humanitarian access and protection of civilians.",
+      "error": null
+    },
+    {
+      "country": "Angola",
+      "country_slug": "angola",
+      "vote": "abstain",
+      "statement": "Angola abstains on this resolution. While we support humanitarian relief and ceasefire efforts, we believe additional diplomatic consultations with regional partners are needed to ensure a comprehensive and lasting peace framework that addresses all parties' concerns.",
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,1367 @@
+[
+  {
+    "Entity": "Afghanistan",
+    "Code": "AFG",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Albania",
+    "Code": "ALB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Algeria",
+    "Code": "DZA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Andorra",
+    "Code": "AND",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Angola",
+    "Code": "AGO",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Antigua and Barbuda",
+    "Code": "ATG",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Argentina",
+    "Code": "ARG",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Armenia",
+    "Code": "ARM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Australia",
+    "Code": "AUS",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Austria",
+    "Code": "AUT",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Azerbaijan",
+    "Code": "AZE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Bahamas",
+    "Code": "BHS",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Bahrain",
+    "Code": "BHR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Bangladesh",
+    "Code": "BGD",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Barbados",
+    "Code": "BRB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Belarus",
+    "Code": "BLR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Belgium",
+    "Code": "BEL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Belize",
+    "Code": "BLZ",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Benin",
+    "Code": "BEN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Bhutan",
+    "Code": "BTN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Bolivia",
+    "Code": "BOL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Botswana",
+    "Code": "BWA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Brazil",
+    "Code": "BRA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Brunei",
+    "Code": "BRN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Bulgaria",
+    "Code": "BGR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Burkina Faso",
+    "Code": "BFA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Burundi",
+    "Code": "BDI",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Cambodia",
+    "Code": "KHM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Cameroon",
+    "Code": "CMR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Canada",
+    "Code": "CAN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Cape Verde",
+    "Code": "CPV",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Central African Republic",
+    "Code": "CAF",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Chad",
+    "Code": "TCD",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Chile",
+    "Code": "CHL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "China",
+    "Code": "CHN",
+    "Full Member": 1,
+    "Security Council P5": 1,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Colombia",
+    "Code": "COL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Comoros",
+    "Code": "COM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Congo",
+    "Code": "COG",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Costa Rica",
+    "Code": "CRI",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Croatia",
+    "Code": "HRV",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Cuba",
+    "Code": "CUB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Cyprus",
+    "Code": "CYP",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Czechia",
+    "Code": "CZE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Denmark",
+    "Code": "DNK",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Djibouti",
+    "Code": "DJI",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Dominica",
+    "Code": "DMA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Dominican Republic",
+    "Code": "DOM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "East Timor",
+    "Code": "TLS",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Ecuador",
+    "Code": "ECU",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Egypt",
+    "Code": "EGY",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "El Salvador",
+    "Code": "SLV",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Eritrea",
+    "Code": "ERI",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Estonia",
+    "Code": "EST",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Eswatini",
+    "Code": "SWZ",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Ethiopia",
+    "Code": "ETH",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Fiji",
+    "Code": "FJI",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Finland",
+    "Code": "FIN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "France",
+    "Code": "FRA",
+    "Full Member": 1,
+    "Security Council P5": 1,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Gabon",
+    "Code": "GAB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Gambia",
+    "Code": "GMB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Georgia",
+    "Code": "GEO",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Germany",
+    "Code": "DEU",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Ghana",
+    "Code": "GHA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Greece",
+    "Code": "GRC",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Grenada",
+    "Code": "GRD",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Guatemala",
+    "Code": "GTM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Guinea",
+    "Code": "GIN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Guinea-Bissau",
+    "Code": "GNB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Guyana",
+    "Code": "GUY",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Haiti",
+    "Code": "HTI",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Honduras",
+    "Code": "HND",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Hungary",
+    "Code": "HUN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Iceland",
+    "Code": "ISL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "India",
+    "Code": "IND",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Indonesia",
+    "Code": "IDN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Iran",
+    "Code": "IRN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Iraq",
+    "Code": "IRQ",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Ireland",
+    "Code": "IRL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Israel",
+    "Code": "ISR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Italy",
+    "Code": "ITA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Jamaica",
+    "Code": "JAM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Japan",
+    "Code": "JPN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Jordan",
+    "Code": "JOR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Kazakhstan",
+    "Code": "KAZ",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Kenya",
+    "Code": "KEN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Kiribati",
+    "Code": "KIR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Kuwait",
+    "Code": "KWT",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Laos",
+    "Code": "LAO",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Latvia",
+    "Code": "LVA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Lebanon",
+    "Code": "LBN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Lesotho",
+    "Code": "LSO",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Liberia",
+    "Code": "LBR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Libya",
+    "Code": "LBY",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Liechtenstein",
+    "Code": "LIE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Lithuania",
+    "Code": "LTU",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Luxembourg",
+    "Code": "LUX",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Madagascar",
+    "Code": "MDG",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Malawi",
+    "Code": "MWI",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Malaysia",
+    "Code": "MYS",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Maldives",
+    "Code": "MDV",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Mali",
+    "Code": "MLI",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Malta",
+    "Code": "MLT",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Marshall Islands",
+    "Code": "MHL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Mauritania",
+    "Code": "MRT",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Mauritius",
+    "Code": "MUS",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Mexico",
+    "Code": "MEX",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Micronesia (country)",
+    "Code": "FSM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Moldova",
+    "Code": "MDA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Monaco",
+    "Code": "MCO",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Mongolia",
+    "Code": "MNG",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Montenegro",
+    "Code": "MNE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Morocco",
+    "Code": "MAR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Mozambique",
+    "Code": "MOZ",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Myanmar",
+    "Code": "MMR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Namibia",
+    "Code": "NAM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Nauru",
+    "Code": "NRU",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Nepal",
+    "Code": "NPL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Netherlands",
+    "Code": "NLD",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "New Zealand",
+    "Code": "NZL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Nicaragua",
+    "Code": "NIC",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Niger",
+    "Code": "NER",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Nigeria",
+    "Code": "NGA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "North Korea",
+    "Code": "PRK",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "North Macedonia",
+    "Code": "MKD",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Norway",
+    "Code": "NOR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Oman",
+    "Code": "OMN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Pakistan",
+    "Code": "PAK",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Palau",
+    "Code": "PLW",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Panama",
+    "Code": "PAN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Papua New Guinea",
+    "Code": "PNG",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Paraguay",
+    "Code": "PRY",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Peru",
+    "Code": "PER",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Philippines",
+    "Code": "PHL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Poland",
+    "Code": "POL",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Portugal",
+    "Code": "PRT",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Qatar",
+    "Code": "QAT",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Romania",
+    "Code": "ROU",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Russia",
+    "Code": "RUS",
+    "Full Member": 1,
+    "Security Council P5": 1,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Rwanda",
+    "Code": "RWA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Saint Lucia",
+    "Code": "LCA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Samoa",
+    "Code": "WSM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "San Marino",
+    "Code": "SMR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Sao Tome and Principe",
+    "Code": "STP",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Saudi Arabia",
+    "Code": "SAU",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Senegal",
+    "Code": "SEN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Serbia",
+    "Code": "SRB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Seychelles",
+    "Code": "SYC",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Sierra Leone",
+    "Code": "SLE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Singapore",
+    "Code": "SGP",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Slovakia",
+    "Code": "SVK",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Slovenia",
+    "Code": "SVN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Solomon Islands",
+    "Code": "SLB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Somalia",
+    "Code": "SOM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "South Africa",
+    "Code": "ZAF",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "South Korea",
+    "Code": "KOR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "South Sudan",
+    "Code": "SSD",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Spain",
+    "Code": "ESP",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Sri Lanka",
+    "Code": "LKA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Sudan",
+    "Code": "SDN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Suriname",
+    "Code": "SUR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Sweden",
+    "Code": "SWE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Switzerland",
+    "Code": "CHE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Syria",
+    "Code": "SYR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Tajikistan",
+    "Code": "TJK",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Tanzania",
+    "Code": "TZA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Thailand",
+    "Code": "THA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Togo",
+    "Code": "TGO",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Tonga",
+    "Code": "TON",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Tunisia",
+    "Code": "TUN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Turkey",
+    "Code": "TUR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Turkmenistan",
+    "Code": "TKM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Tuvalu",
+    "Code": "TUV",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Uganda",
+    "Code": "UGA",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Ukraine",
+    "Code": "UKR",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "United Arab Emirates",
+    "Code": "ARE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "United Kingdom",
+    "Code": "GBR",
+    "Full Member": 1,
+    "Security Council P5": 1,
+    "Observer State": 0
+  },
+  {
+    "Entity": "United States",
+    "Code": "USA",
+    "Full Member": 1,
+    "Security Council P5": 1,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Uruguay",
+    "Code": "URY",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Uzbekistan",
+    "Code": "UZB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Vanuatu",
+    "Code": "VUT",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Venezuela",
+    "Code": "VEN",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Vietnam",
+    "Code": "VNM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Yemen",
+    "Code": "YEM",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Zambia",
+    "Code": "ZMB",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Zimbabwe",
+    "Code": "ZWE",
+    "Full Member": 1,
+    "Security Council P5": 0,
+    "Observer State": 0
+  },
+  {
+    "Entity": "Holy See",
+    "Code": "VAT",
+    "Full Member": 0,
+    "Security Council P5": 0,
+    "Observer State": 1
+  },
+  {
+    "Entity": "Palestine",
+    "Code": "PSE",
+    "Full Member": 0,
+    "Security Council P5": 0,
+    "Observer State": 1
+  }
+]

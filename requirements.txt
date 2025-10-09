@@ -1,0 +1,13 @@
+# AI Agent UN - Python Dependencies
+
+# Core dependencies
+python-dotenv>=1.0.0
+
+# Cloud API support
+openai>=1.12.0
+
+# Local model support (Ollama)
+ollama>=0.1.0
+
+# Optional: Alternative cloud APIs
+# anthropic>=0.18.0

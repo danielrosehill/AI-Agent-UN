@@ -1,0 +1,109 @@
+{
+  "type": "current_security_council",
+  "description": "Current members of the UN Security Council (as of 2025)",
+  "permanent_members": [
+    {
+      "name": "China",
+      "code": "CHN",
+      "type": "permanent",
+      "veto_power": true
+    },
+    {
+      "name": "France",
+      "code": "FRA",
+      "type": "permanent",
+      "veto_power": true
+    },
+    {
+      "name": "Russia",
+      "code": "RUS",
+      "type": "permanent",
+      "veto_power": true
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GBR",
+      "type": "permanent",
+      "veto_power": true
+    },
+    {
+      "name": "United States",
+      "code": "USA",
+      "type": "permanent",
+      "veto_power": true
+    }
+  ],
+  "non_permanent_members": [
+    {
+      "name": "Algeria",
+      "code": "DZA",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Ecuador",
+      "code": "ECU",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Guyana",
+      "code": "GUY",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Japan",
+      "code": "JPN",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Malta",
+      "code": "MLT",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Mozambique",
+      "code": "MOZ",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Republic of Korea",
+      "code": "KOR",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SLE",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Slovenia",
+      "code": "SVN",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    },
+    {
+      "name": "Switzerland",
+      "code": "CHE",
+      "type": "non-permanent",
+      "term": "2024-2025",
+      "veto_power": false
+    }
+  ],
+  "total_members": 15
+}

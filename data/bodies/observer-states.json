@@ -1,0 +1,16 @@
+{
+  "type": "observer_states",
+  "description": "Non-member observer states at the United Nations",
+  "states": [
+    {
+      "name": "Holy See",
+      "status": "Permanent Observer",
+      "year_admitted": 1964
+    },
+    {
+      "name": "State of Palestine",
+      "status": "Non-member Observer State",
+      "year_admitted": 2012
+    }
+  ]
+}
