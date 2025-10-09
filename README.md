@@ -111,6 +111,39 @@ Results are saved in `tasks/reactions/` as JSON files:
 
 - `01_gaza_ceasefire_resolution` - Support for Ceasefire Agreement in Gaza and Commitment to Lasting Peace
 
+## Analysis Tools
+
+Beyond basic voting simulations, the repository includes powerful analysis capabilities:
+
+### Bilateral Impact Analysis
+Analyze how votes affect country-to-country relationships:
+```bash
+python scripts/analyze_israel_bilateral_impact.py 01_gaza_ceasefire_resolution
+```
+
+**Output:** JSON and CSV files categorizing relationship impacts:
+- 💚 Strengthened Significantly
+- 🟢 Strengthened Moderately
+- 🟡 Strengthened Slightly
+- ⚪ Neutral
+- 🟠 Strained Slightly
+- 🔴 Strained Moderately
+- 🔥 Strained Significantly
+
+### PDF Report Generation
+Create formatted reports from analysis results:
+```bash
+python scripts/generate_simple_pdf.py tasks/analysis/01_gaza_ceasefire_resolution_israel_bilateral_impact_latest.json
+```
+
+### CSV Export
+Export results to spreadsheet format for further analysis:
+```bash
+python scripts/generate_vote_analysis_csv.py
+```
+
+[See full analysis guide →](ANALYSIS_GUIDE.md)
+
 ## AI Providers
 
 ### Cloud API
@@ -123,14 +156,48 @@ Results are saved in `tasks/reactions/` as JSON files:
 - Supports Llama 3, Mistral, Mixtral, and other Ollama models
 - No API costs, complete privacy
 
+## Documentation
+
+### Getting Started
+- **[Quick Start](#quick-start)** - Installation and basic usage
+- **[Usage Guide](docs/USAGE.md)** - Comprehensive guide to running simulations
+- **[Analysis Guide](ANALYSIS_GUIDE.md)** - Quick reference for analysis tools
+
+### Advanced
+- **[Architecture & Design](docs/ARCHITECTURE.md)** - System design, data flows, and extensibility
+- **[Use Cases](docs/ARCHITECTURE.md#use-cases)** - Educational, research, policy, and business applications
+- **[Data Integration](docs/ARCHITECTURE.md#data-integration-opportunities)** - Connect with UN data, economic indicators, news, and more
+
 ## Use Cases
 
-- Educational demonstrations of international relations concepts
-- Research into multi-agent AI behavior in diplomatic contexts
-- Experimentation with large language models in structured debate scenarios
-- Analysis of how AI systems model complex geopolitical positions
+### Education
+- **International Relations Courses**: Teach UN voting dynamics and coalition building
+- **Model UN Training**: Prepare students with authentic diplomatic language and tactics
+- Study how national interests and alliances drive voting behavior
 
- 
+### Research
+- **Comparative AI Analysis**: Compare how different LLMs model geopolitical reasoning
+- **Predictive Analysis**: Test hypothetical resolutions and predict voting patterns
+- **Multi-Agent Systems**: Study emergent behavior in complex diplomatic scenarios
+
+### Policy Analysis
+- **Scenario Planning**: Explore "what-if" scenarios for diplomatic initiatives
+- **Impact Assessment**: Understand how votes affect bilateral relationships
+- Test resolution language for maximum support
+
+### Journalism & Media
+- **Background Research**: Understand country positions for UN reporting
+- **Fact-Checking**: Compare AI predictions with actual voting records
+- Generate data visualizations for news stories
+
+### Business & Strategy
+- **Risk Assessment**: Assess geopolitical risk for business planning
+- **Supply Chain Planning**: Anticipate diplomatic disruptions
+- Understand government policy trajectories
+
+[See full use case documentation →](docs/ARCHITECTURE.md#use-cases)
+
+
 ## Disclaimer
 
 This is a simulation for research and educational purposes. The AI agents' positions do not represent actual government policies or diplomatic stances. The simulation is designed to model how countries might approach issues based on their historical positions, but should not be considered authoritative or predictive.
