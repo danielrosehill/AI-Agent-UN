@@ -643,8 +643,8 @@ ollama pull llama3:8b  # Instead of 70b
 
 ## Next Steps
 
-- **Explore Documentation**: See [ARCHITECTURE.md](ARCHITECTURE.md) for system design
-- **Review Analysis Guide**: See [ANALYSIS_GUIDE.md](../ANALYSIS_GUIDE.md) for quick reference
+- **Explore Documentation**: See [architecture.md](architecture.md) for system design
+- **Review Analysis Guide**: See [analysis_guide.md](../analysis_guide.md) for quick reference
 - **Create Custom Motions**: Add new resolutions in `tasks/motions/`
 - **Develop Analysis Tools**: Build custom scripts in `scripts/`
 - **Contribute**: Submit PRs with new agents, motions, or features

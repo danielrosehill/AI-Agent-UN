@@ -1080,7 +1080,7 @@ python scripts/analyze_israel_bilateral_impact.py 01_gaza_ceasefire_resolution -
 1. Create script in `scripts/`
 2. Use existing JSON schemas for input/output
 3. Add documentation to `docs/`
-4. Update ANALYSIS_GUIDE.md
+4. Update analysis_guide.md
 
 ## License
 

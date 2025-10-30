@@ -142,7 +142,7 @@ Export results to spreadsheet format for further analysis:
 python scripts/generate_vote_analysis_csv.py
 ```
 
-[See full analysis guide →](ANALYSIS_GUIDE.md)
+[See full analysis guide →](analysis_guide.md)
 
 ## AI Providers
 
@@ -160,13 +160,20 @@ python scripts/generate_vote_analysis_csv.py
 
 ### Getting Started
 - **[Quick Start](#quick-start)** - Installation and basic usage
-- **[Usage Guide](docs/USAGE.md)** - Comprehensive guide to running simulations
-- **[Analysis Guide](ANALYSIS_GUIDE.md)** - Quick reference for analysis tools
+- **[How It Works](#how-it-works)** - Overview of the simulation system
+- **[Usage Guide](docs/usage.md)** - Comprehensive guide to running simulations
+- **[Analysis Guide](analysis_guide.md)** - Quick reference for analysis tools
 
-### Advanced
-- **[Architecture & Design](docs/ARCHITECTURE.md)** - System design, data flows, and extensibility
-- **[Use Cases](docs/ARCHITECTURE.md#use-cases)** - Educational, research, policy, and business applications
-- **[Data Integration](docs/ARCHITECTURE.md#data-integration-opportunities)** - Connect with UN data, economic indicators, news, and more
+### Core Documentation
+- **[Architecture & Design](docs/architecture.md)** - System design, data flows, and extensibility
+- **[Agent System](agents/representatives/)** - AI agent system prompts for each country
+- **[Motions](tasks/motions/)** - UN resolutions for voting simulations
+- **[Analysis Results](tasks/analysis/)** - Simulation outputs and analysis data
+
+### Advanced Topics
+- **[Use Cases](docs/architecture.md#use-cases)** - Educational, research, policy, and business applications
+- **[Data Integration](docs/architecture.md#data-integration-opportunities)** - Connect with UN data, economic indicators, news, and more
+- **[LLM Provider Support](docs/architecture.md#llm-provider-support)** - Cloud and local AI model configuration
 
 ## Use Cases
 
@@ -195,9 +202,19 @@ python scripts/generate_vote_analysis_csv.py
 - **Supply Chain Planning**: Anticipate diplomatic disruptions
 - Understand government policy trajectories
 
-[See full use case documentation →](docs/ARCHITECTURE.md#use-cases)
+[See full use case documentation →](docs/architecture.md#use-cases)
 
 
 ## Disclaimer
 
-This is a simulation for research and educational purposes. The AI agents' positions do not represent actual government policies or diplomatic stances. The simulation is designed to model how countries might approach issues based on their historical positions, but should not be considered authoritative or predictive.
+**This is an experimental model and educational tool.**
+
+This repository presents a conceptual framework and experimental model for simulating UN proceedings using AI agents. The primary purpose is to outline an approach to multi-agent diplomatic simulation and provide educational insights into international relations.
+
+- **Not Predictive**: AI agent positions do not represent actual government policies or diplomatic stances
+- **Educational Purpose**: Designed for research, education, and exploring multi-agent AI systems
+- **Experimental Nature**: This is a proof-of-concept demonstrating how AI can model diplomatic interactions
+- **Model-Focused**: The value lies in the modeling approach and system architecture, not in predicting actual UN votes
+- **Code Samples**: Python scripts are provided as supplementary implementation examples
+
+The simulation models how countries might approach issues based on historical positions and foreign policy frameworks, but should not be considered authoritative, predictive, or representative of actual diplomatic positions.

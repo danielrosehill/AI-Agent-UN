@@ -5,9 +5,10 @@ python-dotenv>=1.0.0
 
 # Cloud API support
 openai>=1.12.0
+anthropic>=0.18.0
 
 # Local model support (Ollama)
 ollama>=0.1.0
 
-# Optional: Alternative cloud APIs
-# anthropic>=0.18.0
+# Analysis and reporting
+reportlab>=4.0.0
